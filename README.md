@@ -1,7 +1,5 @@
 # Water-Quality-Prediction-using-Machine-Learning
 
-# Water Quality Prediction using Machine Learning
-
 ## Overview
 
 This project uses machine learning to predict water quality based on certain parameters. The goal is to classify water samples as drinkable or non-drinkable.
